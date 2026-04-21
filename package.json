@@ -2,7 +2,7 @@
   "name": "tahoolic-landing",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://your-username.github.io/Tahoolic/",
+  "homepage": "https://Iniwizzy.github.io/Tahoolic/",
   "type": "module",
   "scripts": {
     "dev": "vite",

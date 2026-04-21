@@ -29,9 +29,10 @@ function Hero() {
             href="#order"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.98 }}
-            className="mt-8 inline-flex items-center rounded-full bg-[#3B1F1F] px-7 py-3 text-sm font-semibold text-white shadow-lg transition hover:bg-[#2c1414]"
+            className="relative z-20 mt-8 inline-flex items-center gap-2 rounded-full bg-[#F6C65B] px-8 py-3.5 text-base font-bold text-[#3B1F1F] shadow-[0_12px_30px_rgba(59,31,31,0.25)] ring-2 ring-[#3B1F1F]/20 transition hover:bg-[#E6A93D]"
           >
-            Pesan Sekarang
+            <span className="inline-block h-2.5 w-2.5 rounded-full bg-[#3B1F1F]" />
+            <span className="text-[#3B1F1F] [text-shadow:0_1px_0_rgba(255,255,255,0.2)]">Pesan Sekarang</span>
           </motion.a>
         </motion.div>
 
