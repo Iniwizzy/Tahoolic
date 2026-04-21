@@ -205,7 +205,7 @@ function App() {
               Pesan sekarang dan nikmati tahu bakso topping kekinian favoritmu dalam hitungan menit.
             </p>
             <motion.a
-              href="https://wa.me/628xxxx"
+              href="https://wa.me/6285119483916"
               target="_blank"
               rel="noreferrer"
               whileHover={{ scale: 1.08 }}
@@ -229,10 +229,10 @@ function App() {
             <p className="font-semibold text-[#3B1F1F]">Tahoolic</p>
           </div>
           <div className="flex items-center gap-4">
-            <a href="https://instagram.com" target="_blank" rel="noreferrer" className="hover:text-[#E6A93D]">
+            <a href="https://instagram.com/tahoolic.co" target="_blank" rel="noreferrer" className="hover:text-[#E6A93D]">
               Instagram
             </a>
-            <a href="https://wa.me/628xxxx" target="_blank" rel="noreferrer" className="hover:text-[#E6A93D]">
+            <a href="https://wa.me/6285119483916" target="_blank" rel="noreferrer" className="hover:text-[#E6A93D]">
               WhatsApp
             </a>
           </div>
